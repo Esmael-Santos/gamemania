@@ -1,0 +1,16 @@
+.body {
+  padding: 0;
+  margin: 0;
+}
+
+.banner{
+  width: 100%;
+  display: flex;
+  justify-content: auto;
+  padding: 1px 0;
+}
+
+.banner .imgBanner {
+  width: 680px;
+  border-radius: 4px;
+}
